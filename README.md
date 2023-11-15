@@ -36,7 +36,7 @@ To use the Shleemypants auditing tool, follow these steps:
    - To start the tool, use the following command:
    - `python Shleemypants.py [options]`
    - Replace `[options]` with appropriate flags or arguments. For example:
-     - To audit a specific date: `python Shleemypants.py --date 2023-03-15`
+     - To audit a specific date: `python Shleemypants.py --date 20230315`
      - To specify a custom output folder: `python Shleemypants.py --folder=custom_audit_folder`
      - To install required dependencies: `python Shleemypants.py -i`
 
