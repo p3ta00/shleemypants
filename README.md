@@ -7,8 +7,11 @@ Shleemypants is not your ordinary auditing tool. This is an interdimensional, ti
 
 ## Features
 **Time Travel Auditing**: Select any point in your system's history and audit like you've just split time. Perfect for those "Oh geez, when did this happen?" moments.
+
 **Multiverse Compliance**: Whether you're in Dimension C-137 or just your regular old office, Shleemypants ensures your auditing is up to scratch across all conceivable realities.
+
 **Slug-Like Precision**: Inspired by Shleemypants' weapon of choice, our tool slithers through your data with the meticulousness of a live, slug-like creature (but much less slimy).
+
 **Intuitive Interface**: Even a Jerry could use it! Navigate through time and data with ease, no advanced degrees in theoretical physics needed.
 
 ## How It Works
