@@ -34,10 +34,8 @@ To use the Shleemypants auditing tool, follow these steps:
 
 3. **Run the Tool**:
    - To start the tool, use the following command:
-```
-     python Shleemypants.py [options]`
-```
-- Replace `[options]` with appropriate flags or arguments. For example:
+   - `python Shleemypants.py [options]`
+   - Replace `[options]` with appropriate flags or arguments. For example:
      - To audit a specific date: `python Shleemypants.py --date 2023-03-15`
      - To specify a custom output folder: `python Shleemypants.py --folder=custom_audit_folder`
      - To install required dependencies: `python Shleemypants.py -i`
@@ -48,6 +46,9 @@ To use the Shleemypants auditing tool, follow these steps:
 
 5. **Additional Options**:
    - Use `python Shleemypants.py --help` for more information on available commands and options.
+
+Remember, Shleemypants is powerful but can't actually reverse time, so use it wisely!
+tions.
 
 ## Disclaimer
 Shleemypants does not actually manipulate time (we're working on it). Do not attempt to use Shleemypants to solve personal time-related regrets or to win the lottery. Shleemypants is not responsible for any temporal paradoxes, reality collapses, or encounters with fourth-dimensional beings.
