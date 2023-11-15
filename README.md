@@ -20,5 +20,34 @@ Just like Shleemypants confronting Rick about a stolen time crystal, this tool c
 * **Retroactive Problem Solving**: Identify when a problem started, and by extension, who to blame (or thank, if it's a good thing).
 * **Teaching Moments with Morty**: Use past network mistakes as learning opportunities for your intern, Morty.
 
+## How to Execute Shleemypants
+
+To use the Shleemypants auditing tool, follow these steps:
+
+1. **Open Your Command Line Interface**:
+   - On Windows, search for `cmd` or `PowerShell` in the start menu.
+   - On macOS or Linux, open the `Terminal`.
+
+2. **Navigate to the Shleemypants Directory**:
+   - Use the `cd` command to navigate to the directory where Shleemypants is located.
+   - Example: `cd path\to\shleemypants`
+
+3. **Run the Tool**:
+   - To start the tool, use the following command:
+```
+     python Shleemypants.py [options]`
+```
+- Replace `[options]` with appropriate flags or arguments. For example:
+     - To audit a specific date: `python Shleemypants.py --date 2023-03-15`
+     - To specify a custom output folder: `python Shleemypants.py --folder=custom_audit_folder`
+     - To install required dependencies: `python Shleemypants.py -i`
+
+4. **View the Output**:
+   - Shleemypants will display the auditing results in the command line interface.
+   - If specified, results will also be saved in the designated output folder.
+
+5. **Additional Options**:
+   - Use `python Shleemypants.py --help` for more information on available commands and options.
+
 ## Disclaimer
 Shleemypants does not actually manipulate time (we're working on it). Do not attempt to use Shleemypants to solve personal time-related regrets or to win the lottery. Shleemypants is not responsible for any temporal paradoxes, reality collapses, or encounters with fourth-dimensional beings.
