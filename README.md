@@ -47,6 +47,26 @@ To use the Shleemypants auditing tool, follow these steps:
 5. **Additional Options**:
    - Use `python Shleemypants.py --help` for more information on available commands and options.
 
+## What Shleemypants Audits and Copies
+
+The Shleemypants tool performs a comprehensive audit of your system by accessing and copying over various types of data:
+
+* **System Logs**: Shleemypants delves into system logs to extract valuable information about system events, errors, and warnings. This includes but is not limited to application logs, security logs, and system event logs.
+
+* **Configuration Files**: The tool scans through system and application configuration files to detect any changes or anomalies that occurred during the specified audit period.
+
+* **User Activity**: Shleemypants tracks user activity, including login/logout events, file access records, and other user-related actions within the system.
+
+* **Network Traffic Data**: If network monitoring is in place, Shleemypants can analyze network traffic logs to identify unusual patterns or potential security breaches.
+
+* **Installed Software and Updates**: The tool audits installed software and system updates, capturing information about when and what updates or installations were made.
+
+* **Security Settings and Changes**: Shleemypants reviews system security settings, including firewall configurations, antivirus status, and other critical security parameters.
+
+* **File Integrity Checks**: For critical system files and sensitive data, the tool performs integrity checks to ensure no unauthorized modifications have been made.
+
+After completing the audit, Shleemypants compiles this data into a comprehensive report, providing administrators with a detailed overview of the system's status during the selected time frame. The tool's ability to effectively 'travel back in time' ensures that no stone is left unturned in maintaining the integrity and security of your digital universe.
+
 Remember, Shleemypants is powerful but can't actually reverse time, so use it wisely!
 tions.
 
