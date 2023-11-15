@@ -15,10 +15,10 @@ Shleemypants is not your ordinary auditing tool. This is an interdimensional, ti
 Just like Shleemypants confronting Rick about a stolen time crystal, this tool confronts any anomalies in your network's timeline. Simply input the date and time you want to audit, and let Shleemypants do the rest. It'll scan through logs, configurations, and changes made in the system, presenting you with a comprehensive report of what went down, when it went down, and possibly why it went down (assuming it wasn't due to an illegal time experiment).
 
 ## Use Cases
-### Catching Time Bandits: Find out who messed with the server settings last Thursday.
-### Temporal Compliance Checks: Ensure your network was compliant at any given point in the past, especially if audited by other multidimensional beings.
-### Retroactive Problem Solving: Identify when a problem started, and by extension, who to blame (or thank, if it's a good thing).
-### Teaching Moments with Morty: Use past network mistakes as learning opportunities for your intern, Morty.
+* **Catching Time Bandits**: Find out who messed with the server settings last Thursday.
+* **Temporal Compliance Checks**: Ensure your network was compliant at any given point in the past, especially if audited by other multidimensional beings.
+* **Retroactive Problem Solving**: Identify when a problem started, and by extension, who to blame (or thank, if it's a good thing).
+* **Teaching Moments with Morty**: Use past network mistakes as learning opportunities for your intern, Morty.
 
 ## Disclaimer
 Shleemypants does not actually manipulate time (we're working on it). Do not attempt to use Shleemypants to solve personal time-related regrets or to win the lottery. Shleemypants is not responsible for any temporal paradoxes, reality collapses, or encounters with fourth-dimensional beings.
