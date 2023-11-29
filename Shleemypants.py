@@ -18,8 +18,8 @@ shleemypants_ascii = """
                                     __/ | |                        
                                    |___/|_|                        
 
-           48th CTS Det 1 SUPER AWESOME SHLEEMING TOOL
-     This tool is used to catch hackers doing bad WATT things
+                 SUPER AWESOME SHLEEMING TOOL
+     This tool is used to catch hackers doing bad things
 """
 
 other_ascii = """
